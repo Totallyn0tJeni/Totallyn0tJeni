@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Totallyn0tJeni
+- 👋 Hi, I’m Jenisha Patel
 - 👀 I’m interested in coding, art, dance & robotics
 - 🌱 I’m currently learning web & software development
 - 💞️ I’m looking to collaborate on ...
